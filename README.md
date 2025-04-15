@@ -19,6 +19,8 @@ My animation allows a user to order frozen yogurt by prompting them to select a 
 
 ## Citations
 
-I figured out that I needed the super(null, null) line in my code in Flavor.java and Topping.java with the help of chatGPT.
+I figured out that I needed the super(null, null) line in my code in Flavor.java and Topping.java with the help of chatGPT. 
+
 The bell sound effect - https://youtu.be/q9wwCYAiHjc?si=PQ6hwPfLQq37Bmuw
+
 I designed all the graphics
